@@ -188,3 +188,24 @@ Dgraph is an open source, scalable, distributed, highly available and fast graph
     </div>
   </div>
 </section>
+
+## Flock
+
+<section class="toc">
+  <div class="container">
+    <div class="row row-no-padding">
+      <div class="col-12 col-sm-6">
+        <div class="section-item">
+          <div class="section-name">
+            <a href="https://github.com/dgraph-io/flock">
+              Flock
+            </a>
+          </div>
+          <p class="section-desc">
+            Load Tweet data in Dgraph and run queries on the social graph
+          </p>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
